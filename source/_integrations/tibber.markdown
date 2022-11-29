@@ -29,7 +29,7 @@ There is currently support for the following device types within Home Assistant:
 
 ## Setup
 
-Go to [developer.tibber.com/settings/accesstoken](https://developer.tibber.com/settings/accesstoken) to get your API token.
+Go to [developer.tibber.com/settings/accesstoken](https://developer.tibber.com/settings/access-token) to get your API token.
 
 {% include integrations/config_flow.md %}
 
